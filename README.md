@@ -30,6 +30,10 @@
      - KNN algorithm
      - Naive Bayes Algorithm
      
+ - **Language Used - Python**
+ - **Libraries used  - Pandas, Numpy, Seaborn, Matplotlib**
+ - **Platform Used - Jupyter notebook in VSCode**
+
  ### Data Visualization and Correlation Graphs
    <img src= "https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/protocol_type.png">
   <img src= "https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/service.png">
