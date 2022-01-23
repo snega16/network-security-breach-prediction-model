@@ -19,7 +19,7 @@
   - Splitting data into training and test set
   - The Classification algorithm is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data. In Classification, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
   - The models used are:
-     - XgBoost Classifier Algorithm
+     - XGBoost Classifier Algorithm
      - Decision Tree Classifier Algorithm
      - Random Forest Classifier
      - Gradient Boosting Algorithm
