@@ -30,7 +30,7 @@
      - KNN algorithm
      - Naive Bayes Algorithm
      
- ### Data Visualization and Corelation Graphs
+ ### Data Visualization and Correlation Graphs
    <img src= "https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/protocol_type.png">
   <img src= "https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/service.png">
   <img src= "https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/flag.png">
@@ -52,4 +52,15 @@
   
    Hence model is created using XGBoost algorithm, named ['network_security_breach_prediction_model.pkl'](https://github.com/snega16/network-security-breach-prediction-model/blob/main/model/network_security_breach_prediction_model.pkl)
    
+ ### Developed By
+   <table>
+<tr>
+    <td align="center" thead="Mentor"><a href="https://github.com/snega16"><img src="https://avatars.githubusercontent.com/u/72247694?v=4" width="100px;" alt="Mentor"/><br /><sub><b>Snega</b></sub></a></td>
+    
+  </tr>
+  </table>
+  
+   - Connect with me through
+<a href="https://www.linkedin.com/in/snega-s-a286661b6" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="linkedin" align="center"></a>
+<a href="https://twitter.com/snega1611?s=03" target="_blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/twitter.svg" height="80px" width="80px" alt="twitter" align="center"></a>
    
