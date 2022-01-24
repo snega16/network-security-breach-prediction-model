@@ -1,6 +1,6 @@
 <h1 align="center"> Network Security Breach Prediction Model </h1> 
 <p align="center">
-	<img src="https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/banner.jpg" width=800 height=500 alt="Banner">
+	<img src="https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/banner.jpeg" width=800 height=500 alt="Banner">
 </p>
 
 ### Introduction
@@ -54,11 +54,6 @@
   <img src="https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/confusion_matrix.png">
   
    Hence model is created using XGBoost algorithm, named ['network_security_breach_prediction_model.pkl'](https://github.com/snega16/network-security-breach-prediction-model/blob/main/model/network_security_breach_prediction_model.pkl)
-   
- ### Video Demonstration
- Click on the below image for Video Demonstration
- 
- <a href = "https://youtu.be/9RX4i4G1SuQ"><img src="https://github.com/snega16/network-security-breach-prediction-model/blob/main/images/banner.jpg" width=800 height=500 alt="Banner"></a>
 	
  ### Developed By
    <table>
